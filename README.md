@@ -3,7 +3,7 @@ Trainer dla gry OHV.
 
 README in English will be available soon!
 
-
+Przycisk F5 ukrywa lub pokazuje okno trainera.
 ## Funkcje
 
 - Zmiana prędkości czasu gry
