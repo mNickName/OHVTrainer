@@ -1,0 +1,15 @@
+C:\Users\Laptop\source\repos\OHVInstaller\OHVInstaller\bin\Release\OHVInstaller.exe.config
+C:\Users\Laptop\source\repos\OHVInstaller\OHVInstaller\bin\Release\OHVInstaller.exe
+C:\Users\Laptop\source\repos\OHVInstaller\OHVInstaller\bin\Release\OHVInstaller.pdb
+C:\Users\Laptop\source\repos\OHVInstaller\OHVInstaller\obj\Release\OHVInstaller.csproj.AssemblyReference.cache
+C:\Users\Laptop\source\repos\OHVInstaller\OHVInstaller\obj\Release\MainWindow.g.cs
+C:\Users\Laptop\source\repos\OHVInstaller\OHVInstaller\obj\Release\App.g.cs
+C:\Users\Laptop\source\repos\OHVInstaller\OHVInstaller\obj\Release\OHVInstaller_MarkupCompile.cache
+C:\Users\Laptop\source\repos\OHVInstaller\OHVInstaller\obj\Release\OHVInstaller_MarkupCompile.lref
+C:\Users\Laptop\source\repos\OHVInstaller\OHVInstaller\obj\Release\MainWindow.baml
+C:\Users\Laptop\source\repos\OHVInstaller\OHVInstaller\obj\Release\OHVInstaller.g.resources
+C:\Users\Laptop\source\repos\OHVInstaller\OHVInstaller\obj\Release\OHVInstaller.Properties.Resources.resources
+C:\Users\Laptop\source\repos\OHVInstaller\OHVInstaller\obj\Release\OHVInstaller.csproj.GenerateResource.cache
+C:\Users\Laptop\source\repos\OHVInstaller\OHVInstaller\obj\Release\OHVInstaller.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\source\repos\OHVInstaller\OHVInstaller\obj\Release\OHVInstaller.exe
+C:\Users\Laptop\source\repos\OHVInstaller\OHVInstaller\obj\Release\OHVInstaller.pdb

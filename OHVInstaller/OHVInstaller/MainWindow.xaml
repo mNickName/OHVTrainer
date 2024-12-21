@@ -1,0 +1,27 @@
+﻿<Window x:Class="OHVInstaller.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OHVInstaller"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="513" Width="430" Icon="/ohvicon.png">
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="10,10,0,0"  Text="Instalator" VerticalAlignment="Top" Width="132" FontSize="28" FontWeight="Bold"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,52,0,0" TextWrapping="WrapWithOverflow" Text="Instalator Trainera dla OHV. Znacząco ułatwia instalacje Trainera oraz środowiska do tworzenia modów. Na stronie Trainera jest również dostępny poradnik dla instalacji manualnej." VerticalAlignment="Top" Width="390" FontSize="15"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,137,0,0" Text="Do instalacji wymagany jest internet!" VerticalAlignment="Top" Width="372" FontSize="13" FontStyle="Italic"/>
+        <Button x:Name="select_game_dir_button" Content="Wybierz" HorizontalAlignment="Left" Margin="338,199,0,0" VerticalAlignment="Top" Width="62" FontSize="14" Click="select_game_dir_button_Click"/>
+        <TextBox x:Name="game_dir_textbox" HorizontalAlignment="Left" Margin="10,199,0,0" TextWrapping="Wrap" Text="C:\Program Files (x86)\Steam\steamapps\common\OHV" VerticalAlignment="Top" Width="323" Height="23" FontSize="14"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,174,0,0" Text="Lokalizacja gry:" VerticalAlignment="Top" Width="372" FontSize="14"/>
+        <RichTextBox x:Name="status_text_box" Margin="10,275,0,10" HorizontalAlignment="Left" Width="390" IsEnabled="False">
+            <FlowDocument>
+                <Paragraph>
+                    <Run x:Name="status_text" Text=""/>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+        <Button x:Name="install_button" Content="Zainstaluj" HorizontalAlignment="Left" Margin="10,227,0,0" VerticalAlignment="Top" Width="390" FontSize="14" Click="install_button_Click"/>
+        <CheckBox x:Name="only_update_trainer_checkbox" Content="Zaktualizuj tylko Trainer" HorizontalAlignment="Left" Margin="10,255,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
