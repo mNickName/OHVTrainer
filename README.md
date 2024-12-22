@@ -11,6 +11,8 @@ README in English will be available soon!
 - Zmiana godziny w grze
 - Dodawanie waluty
 - Nieskończona stamina / zdrowie
+- Teleportacja gracza (WIP)
+- Teleportacja obiektów (WIP)
 
 ## TO-DO
 - [ ]  Poprawa UI
