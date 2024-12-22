@@ -179,8 +179,7 @@ public class Plugin : BaseUnityPlugin
 
     private void onSaveMoneyButtonClicked()
     {
-        //var textInput = trainerWindow.transform.Find("Panel").Find("Padding").Find("Money").Find("MoneyAmountText").GetComponent<TMP_InputField>();
-        //EconomyManagerPatchClass.Prefix(int.Parse(textInput.text));
-        OHVEconomyManager.instance.AddCash(2000);
+        var textInput = GetMainPanel().Find("Money").Find("MoneyAmountText").GetComponent<TMP_InputField>();
+        OHVEconomyManager.instance.AddCash(int.Parse(textInput.text));
     }
 }
