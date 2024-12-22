@@ -12,11 +12,11 @@ README in English will be available soon!
 - Dodawanie waluty
 - Nieskończona stamina / zdrowie
 - Teleportacja gracza (WIP)
-- Teleportacja obiektów (WIP)
+- Teleportacja pojazdów (WIP)
 
 ## TO-DO
 - [ ]  Poprawa UI
-- [ ]  Teleportacja Gracza
-- [ ]  Teleportacja Pojazdów
+- [ ]  Teleportacja Gracza (WIP)
+- [ ]  Teleportacja Pojazdów (WIP)
 - [ ]  Teleportacja Przedmiotów
 - [ ]  Naprawa przedmiotów
